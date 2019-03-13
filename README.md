@@ -9,3 +9,7 @@
 2) Backups Menu	      4) Quit
 Please enter your choice (Press enter to see menu): 
 ```
+
+## Prerequisites
+
+You must have [Doctl](https://github.com/digitalocean/doctl/blob/master/README.md) installed and authenticated on the machine you are running the toolbox on. 
